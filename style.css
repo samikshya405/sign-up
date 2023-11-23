@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    
+}
+.container{
+    
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(235, 246, 235);
+    
+
+}
+.container-2{
+    background-color: rgb(235, 246, 235);
+    padding: 20px;
+    width: 60vh;
+}
+h1{
+    color:rgb(27, 27, 246);
+    text-align: center;
+}
+.signup{
+    background-color: white;
+    padding: 5px;
+    margin: 15px;
+    width: 50vh;
+}
+.content{
+    width:45vh;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+    font-size: 1rem;
+}
+.login{
+    font-weight: 600;
+    font-size: 1rem;
+    color: white;
+    background-color: rgb(27, 27, 246);
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+.forget{
+    text-align: center;
+    margin: 5px;
+    margin-bottom: 15px;
+    
+}
+.create{
+    text-align: center;
+    
+}
+.new{
+    padding: 14px;
+    border-radius: 10px;
+    border: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    background-color: rgb(31, 175, 31);
+}
+.line{
+    width: 45vh;
+    background-color: rgb(3, 3, 12);
+    height: 2px;
+    text-align: center;
+    align-items: center;
+}
+p{
+    margin: 15px;
+    font-weight: 500;
+}
